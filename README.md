@@ -1,7 +1,7 @@
 # Infinite Craft Combination Helper
 
-Remembers which elements you've previosuly have combined and highlights them in green when hovering over them in the sidebar.
-This way you can focus on combinations you haven't alreay tried.
+Remembers which elements you already have combined and highlights them in green when hovering over them in the sidebar.
+This way you can focus on combinations you haven't yet tried.
 
 ![image](https://github.com/ErikMartensson/infinite-craft-combination-helper/assets/4602153/1959f18b-7863-4a05-8763-1748e1a32334)
 
