@@ -101,8 +101,6 @@ document.addEventListener('mouseout', function(event) {
   // }
   // console.log('Mouse out');
   document.querySelectorAll('.items .item').forEach((element) => {
-    setTimeout(() => {
-      element.style.background = '';
-    }, 1000);
+    element.style.background = '';
   });
 });
